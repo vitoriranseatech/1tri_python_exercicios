@@ -1,0 +1,1 @@
+# 1tri_python_exercicios
